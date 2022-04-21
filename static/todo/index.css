@@ -1,0 +1,18 @@
+.main-container{
+    padding: 20px;
+    background-color: lightgreen;
+}
+.list_items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    min-width: 40vw;
+    margin-top: 20px;
+}
+.heading{
+    font-family: "caveat";
+    font-weight: bold;
+}
+.text-added{
+    font-weight: bold;
+}
